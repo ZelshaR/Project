@@ -1,0 +1,17 @@
+property,value
+standardversion,http://opendata.gosmonitor.ru/standard/3.0
+identifier,7708234640-population
+title,"Численность постоянного населения"
+description,"Деление по Российской Федерации,  федеральным округам, субъектам Российской Федерации, муниципальным образованиям,  городским населённым пунктам, категории населения, годам"
+creator,"Федеральная служба государаственной статистики"
+created,20180905
+modified,20140919
+subject,"Численность населения, муниципальные образования"
+format,CSV
+provenance,"Обновление набора данных"
+valid,20251231
+publishername,"Киселева Наталья Михайловна"
+publisherphone,+74956329039
+publishermbox,Kiseleva@gks.ru
+data-20140919-structure-20141013.csv,https://rosstat.gov.ru/opendata/7708234640-population/data-20140919-structure-20141013.csv
+structure-20141013.csv,https://rosstat.gov.ru/opendata/7708234640-population/structure-20141013.csv
