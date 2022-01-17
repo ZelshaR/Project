@@ -1,0 +1,6 @@
+pandas
+numpy
+plotly.express
+seaborn
+dash
+plotly.graph_objects
